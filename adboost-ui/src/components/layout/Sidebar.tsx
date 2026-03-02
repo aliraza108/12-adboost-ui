@@ -70,8 +70,8 @@ export function Sidebar() {
                   <Icon className="h-4 w-4" />
                   <span className="text-sm font-medium">{item.label}</span>
                 </Link>
-              )}
-            )}
+              )
+            })}
           </div>
         </div>
         <div className="mt-auto rounded-xl bg-sand-200/70 p-4 text-sm text-sand-700">
