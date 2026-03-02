@@ -95,7 +95,7 @@ export function Sidebar() {
               <Icon className="h-5 w-5" />
               {item.label}
             </Link>
-          )}
+          )
         })}
       </nav>
     </>
