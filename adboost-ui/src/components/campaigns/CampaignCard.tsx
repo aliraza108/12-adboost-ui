@@ -50,7 +50,7 @@ export function CampaignCard({ campaign, variantsCount = 0, experimentsCount = 0
         href={`/campaigns/${campaign.id}`}
         className="mt-5 inline-flex text-sm text-terracotta hover:underline"
       >
-        View Campaign ->
+        View Campaign &rarr;
       </Link>
     </motion.div>
   )
